@@ -1,6 +1,5 @@
 <template>
   <div class="component">
-    <img src="./assets/vuelogo.svg" alt="Vue" /> 
     <span class="msgClass">{{ msg }}</span>
   </div>
 </template>
