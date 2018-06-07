@@ -1,6 +1,6 @@
 {
   "name": "vue-component-seed",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Basis Vue reusable-component seed",
   "main": "./build/vue-component-seed.js",
   "scripts": {
@@ -16,7 +16,7 @@
   "author": "achinarro",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/achinarro/vue-component-seed.git"
+    "url": "https://github.com/achinarro/vue-component-seed.git"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.0-beta.15",

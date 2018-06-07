@@ -2,6 +2,6 @@ $back-color:  #4fc08d;
 $primary-color: #34495e;
 
 .component {
-  background-color: back-color;
+  background-color: $back-color;
   color: $primary-color;
 }
